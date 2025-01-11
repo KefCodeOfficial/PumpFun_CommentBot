@@ -1,4 +1,4 @@
-# Pump.fun Comment Bot
+# Pumpfun Comment / Spam Bot
 
 Method: Fast requests, no browser!
 

@@ -15,5 +15,8 @@
 - You need residential proxies to run it.
 - Perfect for marketing and traffic generation. 🚀
 
+### Disclaimer:
+This tool is for educational purposes only. Misuse of this tool for unauthorized or unethical activities is strongly discouraged.
 
-Contact: https://t.me/KefCodeTools
+### Contact:
+For more details or inquiries, contact me on Telegram: https://t.me/KefCodeTools

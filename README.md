@@ -11,3 +11,6 @@ Functions: Continuously searches for new coins that have been launched on PumpFu
 The bot has mechanisms that make the comments look different each time, without it being visible to the reader. This way, the comments remain active for a long time and are not deleted after just a few seconds!
 
 🚀 Perfect for marketing and traffic generation.
+
+
+Contact: https://t.me/KefCodeTools

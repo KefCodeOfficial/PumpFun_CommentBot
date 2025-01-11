@@ -1,7 +1,9 @@
 # Pump.fun Comment Bot
 
 Method: Fast requests, no browser!
+
 Language: Python
+
 Info: You need residential proxies to run it.
 
 Functions: Continuously searches for new coins that have been launched on PumpFun, checks if the coin has at least one social link (X or Telegram), creates a Solana wallet, logs into PumpFun and posts a comment under the coin. 

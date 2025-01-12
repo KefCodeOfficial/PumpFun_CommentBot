@@ -3,7 +3,7 @@
 https://github.com/user-attachments/assets/5b31cd93-6b4c-400c-a2f4-e7e3c2b9dabf
 
 #### Method:
-- Fast requests, no browser!
+- Fast requests, no browser! 🚀
   
 #### Language:
 - Python
@@ -15,7 +15,6 @@ https://github.com/user-attachments/assets/5b31cd93-6b4c-400c-a2f4-e7e3c2b9dabf
 
 #### Info:
 - You need residential proxies to run it.
-- Perfect for marketing and traffic generation. 🚀
 
 #### Disclaimer:
 This tool is for educational purposes only. Misuse of this tool for unauthorized or unethical activities is strongly discouraged.
